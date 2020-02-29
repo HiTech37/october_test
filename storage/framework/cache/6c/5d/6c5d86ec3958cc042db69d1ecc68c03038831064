@@ -1,0 +1,35 @@
+1582974222a:1:{s:14:"main-menu.yaml";a:7:{s:8:"fileName";s:14:"main-menu.yaml";s:7:"content";s:647:"name: 'Main Menu'
+items:
+    -
+        title: Home
+        nesting: '0'
+        type: static-page
+        url: ''
+        code: ''
+        reference: index
+        cmsPage: ''
+        replace: '0'
+    -
+        title: About
+        nesting: '0'
+        type: static-page
+        url: ''
+        code: ''
+        reference: about
+        cmsPage: ''
+        replace: '0'
+    -
+        title: 'Our Chairs'
+        nesting: '1'
+        type: static-page
+        url: ''
+        code: ''
+        reference: chairs
+        cmsPage: ''
+        replace: '0'
+    -
+        title: Contact
+        type: cms-page
+        code: ''
+        reference: contact
+";s:5:"mtime";i:1582922781;s:6:"markup";N;s:4:"code";N;s:4:"name";N;s:5:"items";a:0:{}}}
